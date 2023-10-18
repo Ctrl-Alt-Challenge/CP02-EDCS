@@ -1,5 +1,5 @@
 # CP02EDCS
-CheckPoint Edge Computing &amp; Computer Systems
+
 <div align="center">
   <br>
   <h1>Sensor de Monitoramento de Condições Ambientais & Sensor LDR & Sensor DHT11</h1>
@@ -39,54 +39,36 @@ CheckPoint Edge Computing &amp; Computer Systems
   </tr>
 </table>
 
-<h2> Hardware </h2>
-<img height="390em" src="https://github.com/Ctrl-Alt-Challenge/CP01-EDCS/assets/110347145/7e29fb77-afb5-4c96-ae84-576aa0cb1025" alt="Circuito" align="right">
 
-<div align="left">
-
-<b> - Tabela com o hardware do circuito completo </b>
-
-| Quantidade | Descrição                   |
-| ---------- | ----------------------------- |
-| 1          | Arduino Uno R3                |
-| 1          | Vermelho LED                  |
-| 1          | Sensor de temperatura [TMP36] |
-| 4          | 220 Ω Resistor                |
-| 1          | Amarelo LED                   |
-| 1          | Verde LED                     |
-| 1          | Fotorresistor                 |
-| 1          | Speaker                       |
-| 1          | 250 kΩ Potenciômetro          |
-
-</div>
 
 ---
 
-<img height="385em" src="https://github.com/Ctrl-Alt-Challenge/CP01-EDCS/assets/110347145/e4274581-4f64-477f-996e-24cc1f8d228c" alt="Circuito" align="right">
+<img height="385em" src="https://github.com/Ctrl-Alt-Challenge/CP02EDCS/blob/main/CP%2002.mp4" alt="Circuito" align="right">
 
 
 <div align="left">
 
-<b> - Tabela com o hardware do circuito só com o LDR </b>
+<b> - Tabela com o hardware do circuito </b>
 
 | Quantidade | Descrição                     |
 | ---------- | ----------------------------- |
 | 1          | Arduino Uno R3                |
 | 1          | Vermelho LED                  |
 | 4          | 220 Ω Resistor                |
+| 1          | 1 KΩ  Resistor                |
 | 1          | Amarelo LED                   |
 | 1          | Verde LED                     |
-| 1          | Fotorresistor                 |
+| 1          | Fotorresistor (LDR)           |
 | 1          | Speaker                       |
+| 1          | Sensor Temp. e Umid. (DHT11)  |
 
 
 </div>
 
 <h2> Configuração </h2>
 
-Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte as imagens abaixo:
-- <a href="Circuito-Completo/circuito-completo.png"> Circuito completo </a>
-- <a href="Circuito-LDR/circuito-ldr.png"> Circuito só com o LDR </a>
+Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte o vídeo  abaixo:
+- <a href="CP%2002.mp4"> Vídeo circuito </a>
 
 
 <h2> Software </h2>
