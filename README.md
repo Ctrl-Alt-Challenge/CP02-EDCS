@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-  <h1>Sensor de Monitoramento de Condições Ambientais & Sensor LDR & Sensor DHT11</h1>
+  <h1>Sensor de Monitoramento de Condições Ambientais com Sensor LDR & Sensor DHT11</h1>
 </div>
 
 <br>
