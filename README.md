@@ -41,12 +41,7 @@
 
 
 
----
-
-<img height="385em" src="https://github.com/Ctrl-Alt-Challenge/CP02EDCS/blob/main/CP%2002.mp4" alt="Circuito" align="right">
-
-
-<div align="left">
+<div align="center">
 
 <b> - Tabela com o hardware do circuito </b>
 
